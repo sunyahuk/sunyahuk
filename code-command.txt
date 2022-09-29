@@ -1,0 +1,15 @@
+
+ຄຳສັງ github
+
+-composer install      = ຕິຕັ້ງ composer ຂອງ Laravel
+-npm i                 = ຄຳສັງ node js packet
+-php artisan serve     = Run Server ຂອງ Laravuel
+-npm run dev           = ຄຳສັງ Run compli Laravel
+-npm run watch         = ຕິຕັ້ງ compli Laravel ເເລະ ຕິຕັ້ງ ເມືອມີການປຽນແປງ.
+
+ຄຳສັງ github
+ 
+1. github                   = ການເພິມໄຟຣ ທັງຫມົດ ເຂົ້າໃນ git
+2.git comit -m "ຄຳສັງອະທິບາຍ" = ການ commit ເຂົ້າ git
+3.git push                  = ເປັນການອັບໂຫຼດໂປເຈກ ຂຶ້ນ github
+4.git pull                  = ເປັນການອັບເດດ ໂຄດລ່າສຸດຈາກ github
